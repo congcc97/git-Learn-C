@@ -1,0 +1,25 @@
+8
+TH14143
+Nguyen Van Teo
+6.8
+TH12975
+Nguyen Thi No
+2.8
+TH12663
+Tran Van Te
+8.9
+TH123497
+Vo Van Trung
+4.99
+TH123436
+Kieu Thi Qui
+1.2
+TH123970
+Pham Trung Kien
+9.4
+TH123578
+Tran Thi Huyen My
+5.1
+TH12675
+Nguyen Son Tung
+8.3
